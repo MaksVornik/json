@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Пиво",
+    "price": 40,
+    "description": "Львовское",
+    "reviews": [
+      {
+        "rating": 9.8,
+        "comment": "Вкусно"
+      },
+      {
+        "rating": 10.0,
+        "comment": "Супер"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Хлеб",
+    "price": 25,
+    "description": "Батон",
+    "reviews": [
+      {
+        "rating": 10.0,
+        "comment": "Хрустящий"
+      },
+      {
+        "rating": 10.0,
+        "comment": "Свежий"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Печенье",
+    "price": 30,
+    "description": "Таблица умножения",
+    "reviews": [
+      {
+        "rating": 10.0,
+        "comment": "Вкусно"
+      },
+      {
+        "rating": 10.0,
+        "comment": "Хрустящие"
+      }
+    ]
+  }
+]

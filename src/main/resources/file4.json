@@ -1,0 +1,9 @@
+{
+  "name": "Maks",
+  "email": "maxvornik@gmail.com",
+  "address": {
+    "street": "Строителей",
+    "city": "Измаил",
+    "zip": 60006
+  }
+}
